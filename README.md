@@ -1,4 +1,3 @@
-```markdown
 ```mermaid
 flowchart TD
     A[Start] --> B[Pemilihan Arsitektur Model]
